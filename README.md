@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://johnpires.com/cursos/html-tutorial/)
 - [CSS](https://johnpires.com/cursos/css-fundamentos-basicos/)
-- [JavaScript ](https://johnpires.com/cursos/javascript-fundamentos-basicos/)
 
 ## 💻 Projeto
 
