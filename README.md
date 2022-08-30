@@ -1,5 +1,4 @@
 # LoginandRegistrationForm
-# limitCharacters
 
 <h1 align="center">
     <img alt="Logo John Pires" title="#johnpires" src="https://user-images.githubusercontent.com/26515702/131767552-804dece8-a677-4852-9646-39e4095a91bc.png" width="200px" />
@@ -43,10 +42,10 @@ Agora temos uma ideia do que se trata p projeto, Vamos assistir ao vídeo tutori
 
 <br>
 
-🎬 - [Put link for video - YouTube ]()
+🎬 - [Formulário de login e cadastro - YouTube ](https://youtu.be/15TSX7wrxFg)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/26515702/132018689-15dc7158-29d2-486a-af8a-f95194265601.gif" alt="Formulario de login e Cadastro" />
+ <img src="https://user-images.githubusercontent.com/26515702/187558141-35f53c94-cbb0-4659-ab56-270cf9ecf03b.png" alt="Formulario de login e Cadastro" />
 </p>
 
 ## 🤔 Como contribuir
